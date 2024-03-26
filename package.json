@@ -1,0 +1,17 @@
+{
+  "name": "company_classifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Radoslaw Lodzinski",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "openai": "^4.28.4"
+  },
+  "type": "module"
+}
